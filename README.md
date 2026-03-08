@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋 I'm Mirza Shah Hussain
 
-<!--
-**shahhussain27/shahhussain27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Game Developer**
 
-Here are some ideas to get you started:
+I build web applications, developer tools, and games.
+My focus is creating scalable systems and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💼 Full Stack Developer (MERN Stack)
+* 🎮 Unity Game Developer
+* ⚡ Strong in JavaScript ecosystem
+* 🧠 Interested in building developer tools and game engines
+* 🚀 Working toward building my own game studio
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* JavaScript
+* TypeScript
+* C#
+* HTML / CSS
+
+### Frameworks & Tools
+
+* Next.js
+* React
+* Node.js
+* Express
+* MongoDB
+* Unity
+* Tailwind CSS
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* Blender
+
+---
+
+## 🎮 Game Development
+
+I develop games using **Unity** and create my own assets.
+Currently working on horror and survival based concepts.
+
+**Game Concept**
+
+**The Midnight Watch**
+
+A horror mystery survival game where the player must explore a cursed forest, solve puzzles, and survive a deadly entity that appears only at night.
+
+---
+
+## 🚧 Current Projects
+
+* Developer Control Center (Developer productivity tool)
+* GameHub Publisher
+* Unity Game Prototypes
+* Web applications using Next.js
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/mirza-shah-hussain-a18269247
+* GitHub: https://github.com/shahhussain27
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that combine **web technology and game development**.
