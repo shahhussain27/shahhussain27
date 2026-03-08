@@ -1,74 +1,157 @@
-# Hi there, I'm Mirza Shah Hussain 👋
+<div align="center">
 
-> Full Stack Developer & Unity Game Developer — building scalable web systems and immersive game experiences.
+```
+███╗   ███╗██╗██████╗ ███████╗ █████╗     ███████╗██╗  ██╗ █████╗ ██╗  ██╗
+████╗ ████║██║██╔══██╗╚════██║██╔══██╗    ██╔════╝██║  ██║██╔══██╗██║  ██║
+██╔████╔██║██║██████╔╝    ██╔╝███████║    ███████╗███████║███████║███████║
+██║╚██╔╝██║██║██╔══██╗   ██╔╝ ██╔══██║    ╚════██║██╔══██║██╔══██║██╔══██║
+██║ ╚═╝ ██║██║██║  ██║   ██║  ██║  ██║    ███████║██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
----
+### `< Full Stack Developer />` · `[ Unity Game Dev ]` · `{ Future Studio Founder }`
 
-## 🚀 About Me
+*Building scalable systems by day. Haunted forests by night.*
 
-- 💼 Full Stack Developer specializing in the **MERN Stack**
-- 🎮 Unity Game Developer — building original games with custom assets
-- ⚡ Deep expertise in the **JavaScript ecosystem**
-- 🧠 Passionate about developer tooling and game engine internals
-- 🎯 Working toward founding my own **independent game studio**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript;Unity+%7C+C%23+%7C+Blender;Building+developer+tools+%26+game+engines;Turning+coffee+into+scalable+systems...)](https://git.io/typing-svg)
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+</div>
 
 ---
 
-## 🎮 Game Development
+<img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
-I develop games in **Unity** end-to-end — from code architecture to original 3D assets created in **Blender**. My current focus is horror and survival game concepts.
+## `whoami`
 
-### 🕯 Spotlight: *The Midnight Watch*
-> *A horror mystery survival experience.*
+```javascript
+const mirza = {
+  role:      ["Full Stack Dev", "Game Developer"],
+  stack:     ["MERN", "Next.js", "TypeScript"],
+  engine:    "Unity + C#",
+  assets:    "Hand-crafted in Blender",
+  mission:   "Build my own game studio",
+  focus:     ["Scalable systems", "Developer tools",
+              "Game engine internals"],
+  currently: "Horror survival game prototype 🕯️",
+  funFact:   "Web tech & game dev speak the same
+              language underneath"
+};
+```
 
-The player explores a cursed forest, unravels a dark mystery through environmental puzzles, and must evade a deadly entity that only emerges at night. Emphasis on atmosphere, tension, and emergent dread.
+<br clear="right"/>
 
 ---
 
-## 🚧 Current Projects
+## ⚔️ Arsenal
 
-| Project | Description |
-|---|---|
-| **Developer Control Center** | A productivity tool built for developers |
-| **GameHub Publisher** | Game publishing and distribution platform |
-| **Unity Prototypes** | Experimental gameplay and mechanics in Unity |
-| **Next.js Web Apps** | Full-stack web applications with modern tooling |
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🌐 Frontend
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JS-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TS-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend & DB
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 🎮 Game Dev
+<div align="center">
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🕯️ The Game
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   ░▒▓█  THE MIDNIGHT WATCH  █▓▒░                                 │
+│                                                                   │
+│   Genre  ──  Horror · Mystery · Survival                         │
+│   Engine ──  Unity  |  Assets: Blender (handcrafted)             │
+│                                                                   │
+│   You wake up at the edge of a cursed forest.                    │
+│   Solve the mystery. Survive the night. Trust no shadow.         │
+│                                                                   │
+│   But whatever you do —                                          │
+│             don't still be out there after midnight.  🕯️        │
+│                                                                   │
+│   ████████████████████░░░░░░░░░  60% ── In Prototype             │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🚧 Currently Building
+
+<div align="center">
+
+| 🔧 Project | 📋 What it does | 🚦 Status |
+|:---|:---|:---:|
+| **Developer Control Center** | All-in-one productivity hub for devs | 🟡 Active |
+| **GameHub Publisher** | Game publishing & distribution platform | 🟡 Active |
+| **The Midnight Watch** | Unity horror survival game | 🟠 Prototype |
+| **Next.js Web Apps** | Full-stack production web applications | 🟢 Ongoing |
+
+</div>
+
+---
+
+## 📡 Let's Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-shah-hussain-a18269247)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahhussain27)
 
----
+<br/>
 
-⚡ *I enjoy building at the intersection of web technology and game development — two worlds that are more connected than most people think.*
+*"I build at the intersection of the web and the game world —*
+*two universes that speak the same language underneath."*
+
+<br/>
+
+`> Loading next project...` 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+
+</div>
