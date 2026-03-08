@@ -64,10 +64,11 @@ A horror mystery survival game where the player must explore a cursed forest, so
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahhussain27&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhussain27&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahhussain27&show_icons=true&theme=radical&v=1)
+
+<br />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahhussain27&layout=compact&theme=radical&v=1)
 
 ---
 
